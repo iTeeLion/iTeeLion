@@ -1,16 +1,15 @@
-### Hi there 👋
+# Sup, I'm Sergey ✌️😎
 
-<!--
-**iTeeLion/iTeeLion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a web developer who does not mind do something unusial sometimes 😉 
 
-Here are some ideas to get you started:
+## 😉 About me:
+- 💻 I'm coding on: PHP, Vanilla JS, jQuery, Node JS and sometimes on Bash 
+- ⭐ My favorite technologies: Laravel and Vue.JS, but mostly i'm work with bitrix 💩
+- ✔️ My regular tasks: create and work with API, parse and build files and documents, make automation and report systems
+- 🔥 Special knowledge: Configuring and administrate Debian and CentOS linux, configuring Asterisk
+- 🎥 Media skills: Figma, Photoshop and Adobe Premiere
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Follow me:
+- 🌍 Site: https://iteelion.ru
+- 🤵 Linkedin: https://linkedin.com/iteelion
+- ⌨️ GitHub: https://github.com/iteelion
