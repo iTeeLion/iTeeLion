@@ -1,15 +1,13 @@
-# Sup, I'm Sergey ✌️😎
+# Hey! I'm Sergey ✌️😎
 
-I am a web developer who does not mind do something unusial sometimes 😉 
+And i am a web developer 😉
 
-## About me:
-- 💻 I'm coding on: PHP, JS, Node JS and sometimes on Bash 
-- ⭐ My favorite technologies: Laravel and Vue.JS, but mostly i'm work with bitrix 💩
-- ✔️ My regular tasks: create and work with API, parse and build files and documents, make automation and report systems
-- 🔥 Special knowledge: Configuring and administrate Debian and CentOS linux, configuring Asterisk
-- 🎥 Media skills: Figma, Photoshop and Adobe Premiere
+## About the things i work with:
+- 💻 My languages: PHP, JS, NodeJS, Bash 
+- ⭐ My frameworks: Bitrix, Laravel, Vue
+- 🔥 My systems: Debian. CentOS
+- 🎥 My meadia: Figma, Adobe Photoshop, Adobe Premiere
 
 ## Follow me:
 - 🌍 Site: https://iteelion.ru
-- 🤵 Linkedin: https://linkedin.com/iteelion
 - ⌨️ GitHub: https://github.com/iteelion
