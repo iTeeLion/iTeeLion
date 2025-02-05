@@ -1,11 +1,18 @@
 # Sup ✌️😎
 
+Angry lazy web developer (ノಠ益ಠ)ノ彡┻━┻
+
 ## Tools:
-- 💬 Programming languages: PHP, JS, Bash 
-- ⚙️ Frameworks: Bitrix, Laravel, Vue
-- 🖥 OSs: Ubintu, Debian
-- 🎥 Meadia tools: Figma, Adobe Photoshop, Adobe Premiere
+
+|  | Class | Value |
+| --- | --- | --- |
+| 💬 | Programming languages | PHP, JS, Bash |
+| ⚙️ | Frameworks | Bitrix, Laravel, Vue |
+| 🖥 | OSs | Ubintu, Debian |
+| 🎥 | Meadia | Figma, Adobe Photoshop, Adobe Premiere |
 
 ## Follow me:
-- 🌍 Website: https://iteelion.ru
-- 💬 Telegram: https://t.me/iteelion
+|  | Description | Link |
+| --- | --- | --- |
+| 🌍 | Website | https://iteelion.ru |
+| 💬 | Telegram | https://t.me/iteelion |
